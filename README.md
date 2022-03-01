@@ -22,7 +22,7 @@
   <a href = "mailto:liviaquirino2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/l%C3%ADvia-quirino-24018a227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    ![snake gif] (https://github.com/httpsliia/httpsliia/blob/output/github-contribution-grid-snake.gif)
+ 
  
 </div>
 
